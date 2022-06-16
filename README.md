@@ -7,4 +7,7 @@ App updater for Cordova/PhoneGap
 > 4. 在原插件配置文件中加入了 `<force></force>` 标签，来配置是否有取消按钮。
 # Install
 
-> `cordova plugin add https://github.com/qitianhuoshen/cordova-plugin-app-update --save`
+### Latest published version on npm (with Cordova CLI >= 5.0.0)
+
+> `"cordova-android": "6.3.0"`
+`cordova plugin add https://github.com/qitianhuoshen/cordova-plugin-app-update --save`
